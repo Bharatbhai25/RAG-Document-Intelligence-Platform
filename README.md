@@ -5,9 +5,7 @@ A full-stack Retrieval-Augmented Generation (RAG) system that ingests external d
 
 The system is designed to reduce hallucination by ensuring that every generated answer is grounded in retrieved data.
 
-Example responses using mistralai/mistral-7b-instruct-v0.3 and only 3 books in database:
-![Sample view](DIRAG-01.png)
----
+
 
 ## Overview
 
